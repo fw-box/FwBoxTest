@@ -12,6 +12,7 @@
 //   None
 //
 
+#define DEVICE_TYPE 35
 #define FIRMWARE_VERSION "1.0.0"
 
 void setup()

@@ -13,7 +13,7 @@
 //
 
 #define DEVICE_TYPE 35
-#define FIRMWARE_VERSION "1.0.13"
+#define FIRMWARE_VERSION "1.0.14"
 
 void setup()
 {
